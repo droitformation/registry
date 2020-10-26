@@ -1,5 +1,5 @@
 {
-    "name": "droitformation/config-registry",
+    "name": "droitformation/registry",
     "description": "Laravel registry manager",
     "keywords": [],
     "license": "MIT",
